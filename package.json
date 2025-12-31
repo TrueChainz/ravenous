@@ -10,7 +10,7 @@
     "env-cmd": "^10.1.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "whatwg-fetch": "^3.6.2"
   },
   "scripts": {
